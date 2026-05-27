@@ -65,7 +65,7 @@ export default function Header() {
           className="relative aspect-[16/10] md:aspect-[16/9] lg:aspect-square w-full rounded-2xl overflow-hidden shadow-2xl border-2 border-brand-green-mid/40"
         >
           <img 
-            src="/src/assets/images/hero_healthy_food_1779917375806.png" 
+            src="https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&q=80&w=1200" 
             alt="Prato saudável com salmão grelhado, arroz aromático, aspargos e suco de laranja natural" 
             referrerPolicy="no-referrer"
             className="w-full h-full object-cover transition-transform duration-700 hover:scale-105"
