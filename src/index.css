@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&family=JetBrains+Mono:wght@400;500;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Outfit", ui-sans-serif, system-ui, sans-serif;
+  --font-serif: "Playfair Display", ui-serif, system-serif, serif;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+
+  --color-brand-green-dark: #1A2016;
+  --color-brand-green-mid: #4A6741;
+  --color-brand-green-light: #EBF0E4;
+  --color-brand-orange-dark: #A66C55;
+  --color-brand-orange-light: #FDE9E1;
+  --color-brand-cream: #F7F8F3;
+  --color-brand-charcoal: #2D332A;
+  --color-brand-border: #E1E5D8;
+}
+

@@ -1,0 +1,6 @@
+{
+  "name": "Cardápio Saudável",
+  "description": "Um cardápio digital interativo de comidas saudáveis, incluindo pratos balanceados, sucos naturais, sobremesas e doces fit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
